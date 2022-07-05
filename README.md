@@ -1,5 +1,5 @@
 
-## Cloud Notes Flutter Application
+### Cloud Notes Flutter Application
 
 * _Flutter, Firebase_.
 * This is flutter application which allows user to save notes on cloud(cloud firestore).
